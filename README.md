@@ -77,3 +77,8 @@ Movie_Explorer_Platform/
 ├── Dockerfile
 ├── docker-compose.yml
 ```
+
+## API Swagger UI
+
+<img width="1729" height="1212" alt="image" src="https://github.com/user-attachments/assets/4ad5d62a-d17b-4c25-9baf-cc7d2527d0a2" />
+
