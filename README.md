@@ -14,7 +14,7 @@
 
 ---
 
-## 🏷️ Features
+## Features
 
 - Create Movies, Actors, Genres, and Directors with pydantic validation
 - MongoDB document database integration
@@ -24,7 +24,7 @@
 ---
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Backend:** FastAPI, Motor (MongoDB async driver), Pydantic v2
 - **Database:** MongoDB
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -56,13 +56,13 @@ uvicorn app.main:app --reload
 
 docker-compose up --build
 
-## 📋 API Documentation
+## API Documentation
 
 - Swagger UI: http://localhost:8000/docs
 - Redoc: http://localhost:8000/redoc
 
 
-## 🗃️ Folder Structure
+## Folder Structure
 ```txt
 Movie_Explorer_Platform/
 │
