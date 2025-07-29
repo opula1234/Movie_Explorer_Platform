@@ -1,7 +1,7 @@
-# 🎬 Movie Explorer API
+# <img width="100" height="100" alt="clapperboard" src="https://github.com/user-attachments/assets/5a148c5e-8507-4ed5-83db-597e03cb00fc" /> Movie Explorer API
 
 A Back-End application to manage and explore movies, directors, actors, and genres using **FastAPI** (backend) and **MongoDB**.
-<img width="512" height="512" alt="clapperboard" src="https://github.com/user-attachments/assets/5a148c5e-8507-4ed5-83db-597e03cb00fc" />
+
 
 ---
 
