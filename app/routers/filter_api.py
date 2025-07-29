@@ -50,7 +50,6 @@ async def get_movies_by_input(
     if director:
         query["director"] = {"$in": [director]}
 
-    # movies_data = await db.movies.find(query).to_list(100)
     movies_data = [doc async for doc in db.movies.find(query)]
 
     print(panel.Panel(f"{movies_data}", border_style="green"))
